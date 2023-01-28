@@ -1,7 +1,9 @@
 body {
     background-color: rgb(255, 255, 255);
 }
-
-.perkin {
-    text-align: center;
+h1 {
+    align-content: center;
+}
+button {
+    align-self: center;
 }
